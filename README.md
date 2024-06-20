@@ -29,24 +29,19 @@ Cineflex is a Next.js-based full-stack web application designed to provide users
 - Database: MongoDB (managed through Prisma)
 - Deployment: Vercel, Heroku
 
-5. Team Members:
 
-- Meghna Ramsnehi: Developed and fetched the movies API, ensuring an extensive selection of movies.
-- Hamed Tara: Implemented authentication features using NextAuth.js, ensuring secure user access to the application.
-- Garry Mittal: Implemented movie playback functionality and frontend development, crafting an immersive user experience.
-
-6. Project Deliverables:
+5. Project Deliverables:
 
 - A fully functional web application with an intuitive user interface and smooth user experience.
 - Comprehensive documentation covering installation, usage, and maintenance procedures.
 - Source code repository hosted on a version control system for collaborative development and future enhancements.
 
-7. Future Enhancements:
+6. Future Enhancements:
 
 - Implement advanced recommendation algorithms to personalize user experiences.
 - Introduce social features such as movie sharing and user interactions.
 - Expand the content library through partnerships and content acquisition strategies.
 - Enhance accessibility features to cater to diverse user needs.
 
-8. Conclusion:
+7. Conclusion:
    Cineflex aims to redefine the movie-watching experience by offering a feature-rich platform with seamless playback, personalized recommendations, and robust security measures. With its intuitive design and extensive feature set, Cineflex is poised to become a preferred destination for movie enthusiasts worldwide.
