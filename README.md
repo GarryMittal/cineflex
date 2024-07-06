@@ -45,3 +45,8 @@ Cineflex is a Next.js-based full-stack web application designed to provide users
 
 7. Conclusion:
    Cineflex aims to redefine the movie-watching experience by offering a feature-rich platform with seamless playback, personalized recommendations, and robust security measures. With its intuitive design and extensive feature set, Cineflex is poised to become a preferred destination for movie enthusiasts worldwide.
+   
+![image](https://github.com/GarryMittal/cineflex/assets/122456798/f4773103-86d0-43f6-9880-ddacf6467d62)
+![image](https://github.com/GarryMittal/cineflex/assets/122456798/1a59b422-1bc9-4d85-a219-18f7f0452c14)
+
+
